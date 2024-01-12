@@ -1,7 +1,7 @@
 ## 스타트캠프(3일간)
 ### 1일차
 
-(Generative Pre-trained Transformer)
+chat_GPT (Generative Pre-trained Transformer)
 
 zero shot lerning
 
@@ -35,7 +35,7 @@ Inline Code Block   : 글 사이에 코드 있는 경우
 
 **CLI** (Command Line Interface) : 명령어를 통해서 사용자외 컴퓨터가 상호 작용하는 방식
 
-$ touch prac2.txt  : prac2라는 이름의 텍스트 생성!
+`$ touch prac2.txt`  : prac2라는 이름의 텍스트 생성!
 
 GUI보다 Cli가 더 싸서 많이 쓴다
 
